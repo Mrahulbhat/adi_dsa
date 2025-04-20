@@ -16,6 +16,6 @@ void nForest(int n)
 int main()
 {
     int n = 3;
-    nForest(n); // Call the function
+    nForest(n); // Function call
     return 0;
 }
