@@ -6,7 +6,7 @@ Purpose
 - Collect well-documented solutions to algorithm and data-structure problems.
 - Provide a clear, repeatable workflow for contributors so solutions can be reviewed and merged.
 
-Contribution workflow (Git + JIRA)
+Contribution workflow (Git + Excel)
 
 1. Create a branch for each problem or task.
    - Branch naming: problem/<problem-title>
