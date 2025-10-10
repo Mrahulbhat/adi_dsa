@@ -17,9 +17,7 @@ Contribution workflow (Git + JIRA)
    - Stage & commit: git commit -m "<any-message>"
    - Push branch: git push origin <branch-name>
 
-3. Create a JIRA task for the solution:
-   - Create a ticket with summary and description.
-   - Attach the GitHub branch URL to the JIRA ticket.
+3. Update the EXCEL SHEET
 
 4. Open a Pull Request (PR) from your branch to master (or main).
    - Include the PR template checklist (see below).
